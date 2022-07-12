@@ -6,3 +6,5 @@
 
 ## Logbooks
 Logbooks were where we related how we completed the SEED tutorials available here: https://seedsecuritylabs.org/Labs_20.04/
+
+#### Final Grade: 17/20
